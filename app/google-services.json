@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186513252486",
+    "project_id": "air-bnb-booking-app",
+    "storage_bucket": "air-bnb-booking-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186513252486:android:1665403c55eec21846f107",
+        "android_client_info": {
+          "package_name": "com.example.airbnbbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOoxFWkVFFci3oXo9ApLiUY1FKVYw7HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
