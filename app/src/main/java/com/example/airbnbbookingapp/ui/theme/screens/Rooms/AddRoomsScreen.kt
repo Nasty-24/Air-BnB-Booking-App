@@ -124,7 +124,7 @@ fun ImagePicker(modifier: Modifier = Modifier, context: Context, navController: 
                 },
             ) {
                 Text(
-                    text = "Select Image"
+                    text = "Select RoomImage"
                 )
             }
 
